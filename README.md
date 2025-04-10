@@ -4,4 +4,4 @@ The repository contains code, for building a simple research assitant in minutes
 
 Detailed Tutorial, check out my Blog:
 
-![Code Explanation at Medium Blog]{(https://medium.com/@itzcharles03/build-a-local-llm-powered-research-assistant-in-minutes-76ac70b0b64f)
+![Code Explanation at Medium Blog](https://medium.com/@itzcharles03/build-a-local-llm-powered-research-assistant-in-minutes-76ac70b0b64f)
